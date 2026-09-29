@@ -124,7 +124,7 @@ I help businesses with:
 
 ## 📫 Let's Connect
 
-🌐 Portfolio: http://topshelfpeptide.com/
+🌐 Portfolio: https://hubstafftalent.net/profiles/lawrance-babu
 
 💼 LinkedIn: https://www.linkedin.com/in/lawrance-babu/
 
