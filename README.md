@@ -57,51 +57,27 @@ Git • GitHub • VS Code • XAMPP
 
 ## ⭐ Featured Projects
 
-### Laravel Business Management System
+### [Auth Gate Popup](https://github.com/lawrancebabu/auth-gate-popup)
 
-A full-stack Laravel application featuring authentication, role-based access, customer management, invoices, payments and reporting.
+WordPress plugin that gates a site behind a non-dismissible AJAX login / registration popup and requires login before WooCommerce purchases.
 
-**Tech:** Laravel • PHP • MySQL • JavaScript
-
----
-
-### WordPress Custom Plugin
-
-A production-style WordPress plugin demonstrating custom admin interfaces, database operations, AJAX functionality, security and WordPress hooks.
-
-**Tech:** PHP • WordPress • MySQL • JavaScript
+**Tech:** PHP • WordPress • WooCommerce • AJAX • jQuery • Settings API
 
 ---
 
-### WooCommerce Custom Solution
+### [Custom Reset Password Page](https://github.com/lawrancebabu/custom-reset-password)
 
-A WooCommerce customization project demonstrating product/order workflows, custom checkout functionality, API integration and webhook handling.
+WordPress plugin that replaces the wp-login.php reset screen with a themed front-end page, strength meter and Web Crypto password suggestions.
 
-**Tech:** WordPress • WooCommerce • PHP • JavaScript
-
----
-
-### Laravel Blog & CMS
-
-A custom Laravel content management system with posts, categories, tags, media management, SEO fields and an administrative dashboard.
-
-**Tech:** Laravel • PHP • MySQL • JavaScript
+**Tech:** PHP • WordPress • JavaScript • AJAX • Web Crypto API • Shortcodes
 
 ---
 
-### JavaScript API Application
+### [Smart Banner](https://github.com/lawrancebabu/smart-banner)
 
-A modern JavaScript application consuming external APIs with search, filtering, dynamic data rendering and responsive UI.
+WordPress plugin for stackable announcement banners with UTC scheduling, live countdowns, drag-to-reorder, cache purging and a diagnostics screen.
 
-**Tech:** JavaScript • REST API • HTML • CSS
-
----
-
-### AI Business Automation
-
-A practical automation project connecting AI capabilities with web applications and business workflows.
-
-**Tech:** PHP/JavaScript • API • AI • Automation
+**Tech:** PHP • WordPress • MySQL (custom table) • JavaScript • jQuery
 
 ---
 
@@ -124,7 +100,7 @@ I help businesses with:
 
 ## 📫 Let's Connect
 
-🌐 Portfolio: https://hubstafftalent.net/profiles/lawrance-babu
+🌐 Portfolio: http://topshelfpeptide.com/
 
 💼 LinkedIn: https://www.linkedin.com/in/lawrance-babu/
 
