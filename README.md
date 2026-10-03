@@ -59,7 +59,7 @@ Git • GitHub • VS Code • XAMPP
 
 ### [Auth Gate Popup](https://github.com/lawrancebabu/auth-gate-popup)
 
-WordPress plugin that gates a site behind a non-dismissible AJAX login / registration popup and requires login before WooCommerce purchases.
+WordPress plugin that gates a site behind a non-dismissible AJAX login/registration popup and requires login before WooCommerce purchases.
 
 **Tech:** PHP • WordPress • WooCommerce • AJAX • jQuery • Settings API
 
@@ -100,7 +100,7 @@ I help businesses with:
 
 ## 📫 Let's Connect
 
-🌐 Portfolio: http://topshelfpeptide.com/
+🌐 Portfolio: https://hubstafftalent.net/profiles/lawrance-babu
 
 💼 LinkedIn: https://www.linkedin.com/in/lawrance-babu/
 
