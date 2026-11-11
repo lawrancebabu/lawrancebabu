@@ -1,113 +1,51 @@
-# Hi, I'm Lawrance Babu 👋
+# Hi, I'm Lawrance Babu Gain
 
-### Full-Stack PHP Developer | Laravel | WordPress | WooCommerce | JavaScript
+**Senior PHP / Laravel / WordPress Developer** · Khulna, Bangladesh (UTC+6)
 
-15+ years PHP · 5 years Laravel · Khulna, Bangladesh · Available for US/EU hours (remote or relocation)
+I build and maintain production Laravel applications, custom WordPress plugins and WooCommerce sites for international clients. I work full-time remote on US and EU hours, and I am open to visa-sponsored relocation to Germany or the EU.
 
-I build practical web applications, custom WordPress/WooCommerce solutions, APIs, integrations and business automation systems.
+## Stack
 
-I focus on turning business requirements into reliable, maintainable and user-friendly web solutions.
+- **Backend:** PHP 8, Laravel, MySQL, PostgreSQL, REST APIs, queues and webhooks
+- **WordPress:** Custom plugins, WooCommerce, Gutenberg / Full Site Editing, Elementor, ACF, hooks and the WP REST API
+- **Front end:** HTML, CSS, JavaScript, Blade, Bootstrap
+- **Quality and workflow:** Git, Pest, GitHub Actions, WordPress Coding Standards
 
----
+## Featured projects
 
-## 🚀 What I Build
+### [InvoiceLite](https://github.com/lawrancebabu/invoicelite)
 
-* Laravel web applications
-* Custom WordPress plugins
-* WooCommerce customizations
-* REST APIs & integrations
-* Payment & webhook integrations
-* Business dashboards & CRM/ERP systems
-* JavaScript applications
-* Workflow & business automation
-* AI-powered web solutions
+Laravel 11 invoicing app for freelancers: multi-currency invoices, PDF export, status workflow, per-user numbering, Pest tests and CI.
 
----
+### [ShipTrack](https://github.com/lawrancebabu/shiptrack)
 
-## 🛠️ Technology Stack
+Multi-tenant Laravel shipment tracking API: signed courier webhooks, queued processing, outgoing signed webhooks with backoff, Postgres partitioning and a Filament admin.
 
-### Backend
+### [WooCommerce Order Sync & Recovery](https://github.com/lawrancebabu/wc-order-sync-recovery)
 
-PHP • Laravel • MySQL • REST APIs
+WordPress plugin that syncs WooCommerce orders to an external ERP with Action Scheduler jobs, HMAC-signed webhooks, retries and failed-job recovery. HPOS compatible.
 
-### WordPress
+### [Lawrance FSE Demo](https://github.com/lawrancebabu/lawrance-fse-demo)
 
-WordPress • WooCommerce • Elementor • Custom Plugins • Hooks • AJAX
+WordPress Full Site Editing block theme: theme.json v3, templates, parts, patterns and style variations. [Live demo](https://lawrance-fse-demo.infinityfreeapp.com)
 
-### Frontend
+### Other plugins
 
-HTML • CSS • JavaScript • Bootstrap • Responsive UI
+- [Smart Banner](https://github.com/lawrancebabu/smart-banner) — stackable announcement banners with scheduling, live countdowns, drag-to-reorder and remembered dismissals
+- [Auth Gate Popup](https://github.com/lawrancebabu/auth-gate-popup) — non-dismissible login/registration popup with a WooCommerce add-to-cart gate
+- [Custom Reset Password](https://github.com/lawrancebabu/custom-reset-password) — themed front-end reset page with a strength meter and browser-generated password suggestions
 
-### Integrations
+## Live work
 
-REST APIs • Webhooks • Payment APIs • Email Automation
+- Laravel accounting and billing ERP (invoices, ledgers, payments, reporting): [rightsightedu.com/rs_accounting](https://rightsightedu.com/rs_accounting/)
+- WordPress / WooCommerce sites: [topshelfpeptide.com](https://topshelfpeptide.com) · [rightsightedu.com](https://rightsightedu.com)
 
-### Tools
+## Open to
 
-Git • GitHub • VS Code • XAMPP
+Remote roles at companies outside Bangladesh, and visa-sponsored relocation to Germany or the EU. Notice period is one month.
 
----
+## Contact
 
-## 🌐 Live Work
-
-* **Laravel Accounting & Billing ERP**: invoices, ledgers, payments and reporting. Demo: https://rightsightedu.com/rs_accounting/
-* **WordPress / WooCommerce builds**: https://topshelfpeptide.com · https://rightsightedu.com
-
----
-
-## ⭐ Featured Projects
-
-### [Auth Gate Popup](https://github.com/lawrancebabu/auth-gate-popup)
-
-WordPress plugin that gates a site behind a non-dismissible AJAX login/registration popup and requires login before WooCommerce purchases.
-
-**Tech:** PHP • WordPress • WooCommerce • AJAX • jQuery • Settings API
-
----
-
-### [Custom Reset Password Page](https://github.com/lawrancebabu/custom-reset-password)
-
-WordPress plugin that replaces the wp-login.php reset screen with a themed front-end page, strength meter and Web Crypto password suggestions.
-
-**Tech:** PHP • WordPress • JavaScript • AJAX • Web Crypto API • Shortcodes
-
----
-
-### [Smart Banner](https://github.com/lawrancebabu/smart-banner)
-
-WordPress plugin for stackable announcement banners with UTC scheduling, live countdowns, drag-to-reorder, cache purging and a diagnostics screen.
-
-**Tech:** PHP • WordPress • MySQL (custom table) • JavaScript • jQuery
-
----
-
-## 💼 Services
-
-I help businesses with:
-
-* Website development
-* WordPress development
-* WooCommerce development
-* Laravel applications
-* Custom plugin development
-* API integrations
-* Website troubleshooting
-* Automation
-* Performance optimization
-* Business software development
-
----
-
-## 📫 Let's Connect
-
-🌐 Portfolio: https://hubstafftalent.net/profiles/lawrance-babu
-
-💼 LinkedIn: https://www.linkedin.com/in/lawrance-babu/
-
-📧 Email: lawrance1020@gmail.com
-
-💻 GitHub: https://github.com/lawrancebabu
-
----
-
-### Building useful software, one project at a time.
+- Email: [lawrance1020@gmail.com](mailto:lawrance1020@gmail.com)
+- LinkedIn: [linkedin.com/in/lawrance-babu](https://www.linkedin.com/in/lawrance-babu/)
+- Portfolio: [hubstafftalent.net/profiles/lawrance-babu](https://hubstafftalent.net/profiles/lawrance-babu)
